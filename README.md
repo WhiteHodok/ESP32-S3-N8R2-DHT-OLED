@@ -1,9 +1,7 @@
-Извините за путаницу! Теперь я объединю всё в один блок кода, чтобы вы могли скопировать его за один клик без разрывов. Вот исправленный текст:
-
-```markdown
 # ESP32-S3 + OLED + DHT11 + NeoPixel
 
-![Project Logo](https://via.placeholder.com/150) <!-- Замените ссылку на логотип вашего проекта, если есть -->
+![image](https://github.com/user-attachments/assets/5f5b9b61-cdcd-4886-bbd5-a90528b33a55)
+
 
 Этот проект демонстрирует использование ESP32-S3 для считывания данных с датчика DHT11 (температура и влажность), отображения их на OLED-дисплее и управления цветом светодиода NeoPixel в зависимости от температуры.
 
@@ -54,7 +52,7 @@ The project is developed for the **ESP32-S3** board and can be deployed using Pl
 - Плата **ESP32-S3**.
 - Датчик **DHT11**.
 - OLED-дисплей **SSD1306** (128x64).
-- Светодиод **NeoPixel** (1 шт.).
+- Светодиод **NeoPixel** (1 шт.). Встроенный 
 - PlatformIO для сборки и загрузки прошивки.
 
 ---
@@ -64,7 +62,7 @@ The project is developed for the **ESP32-S3** board and can be deployed using Pl
 - **ESP32-S3** board.
 - **DHT11** sensor.
 - **SSD1306** OLED display (128x64).
-- **NeoPixel** LED (1 piece).
+- **NeoPixel** LED (1 piece). Including ESP32S3xxx
 - PlatformIO for building and uploading the firmware.
 
 ---
