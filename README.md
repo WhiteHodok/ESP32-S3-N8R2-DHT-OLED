@@ -72,7 +72,7 @@ The project is developed for the **ESP32-S3** board and can be deployed using Pl
 1. Установите [PlatformIO](https://platformio.org/).
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/ваш-репозиторий.git
+   git clone https://github.com/WhiteHodok/ESP32-S3-N8R2-DHT-OLED.git
    ```
 3. Перейдите в папку проекта:
    ```bash
@@ -92,7 +92,7 @@ The project is developed for the **ESP32-S3** board and can be deployed using Pl
 1. Install [PlatformIO](https://platformio.org/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/WhiteHodok/ESP32-S3-N8R2-DHT-OLED.git
    ```
 3. Navigate to the project folder:
    ```bash
